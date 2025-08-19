@@ -1,1 +1,11 @@
-{ "name": "studio-booking", "version": "1.0.0", "main": "server.js" }
+{
+  "name": "desi-didi-mart",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
